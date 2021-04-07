@@ -2,7 +2,7 @@
 
 **Jack of all trades, master of some. I love to code, crunch data, sing and study psychology**
 
-- 🔭 I’m currently working on **[dbt](https://github.com/fishtown-analytics/dbt)**
+- 🔭 I’m currently working on **[opensource data pipeline](https://github.com/dataexpertz-blr/os-etl-piepline)**
 - 🌱 I’m currently learning **[golang](https://github.com/golang/go)** and **[kubernetes](https://kubernetes.io/)**
 
 **Big fan of the Open Source Community. love sharing ideas and contributing to Community**

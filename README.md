@@ -11,7 +11,7 @@
 ### SVN GUI
 
 ## Team Projects:
-### Shortlist - Resume
+### Resume - Parser
 
 ## 📫 How to reach me
 - [Sourabh Joshi](https://www.linkedin.com/in/dataengineersourabh/) on LinkedIn
